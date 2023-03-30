@@ -1,18 +1,14 @@
   <?php
     $menu = [
         'Home' => 'admin.php',
-        'Daftar' => 'daftar.php',
-        'Profile' => 'profile.php',
-        'About' => 'about.php',
-        'Logout' => 'logout.php'
+        'Data Produk' => 'list_produk.php',
+        'Data Pelanggan' => 'list_pelanggan.php',
     ];
 
     $icons = [
         'Home' => 'home',
-        'Daftar' => 'plus',
-        'Profile' => 'user',
-        'About' => 'info-circle',
-        'Logout' => 'sign-out-alt'
+        'Data Produk' => 'user',
+        'Data Pelanggan' => 'user',
     ];
     ?>
 
