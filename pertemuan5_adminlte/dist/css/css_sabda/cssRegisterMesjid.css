@@ -1,0 +1,27 @@
+h2{
+    color: #D6D8DB;
+    color: #F4F6F9;
+    color: #343A40;
+    color: #5A6268; 
+}
+body{
+    background-color: #F4F6F9;
+}
+h1,h3,h4,p{
+    color: #5A6268; 
+}
+a{
+    text-decoration: none; 
+    color:#5A6268;
+}
+button a{
+    color: #F4F6F9;
+}
+a:hover{
+    text-decoration: none; 
+    color: #343A40;
+}
+button a:hover{
+    text-decoration: none; 
+    color:#F4F6F9;
+}
