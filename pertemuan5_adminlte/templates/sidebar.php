@@ -1,6 +1,6 @@
   <?php
     $menu = [
-        'Home' => 'admin.php',
+        'Home' => 'index.php',
         'Data Produk' => 'list_produk.php',
         'Data Pelanggan' => 'list_pelanggan.php',
     ];
